@@ -1,0 +1,6 @@
+framework module TextViewMaster {
+  umbrella header "TextViewMaster-umbrella.h"
+
+  export *
+  module * { export * }
+}

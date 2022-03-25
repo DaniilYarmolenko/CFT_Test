@@ -1,0 +1,20 @@
+PODS:
+  - PinLayout (1.10.2)
+  - TextViewMaster (1.1.0)
+
+DEPENDENCIES:
+  - PinLayout
+  - TextViewMaster
+
+SPEC REPOS:
+  trunk:
+    - PinLayout
+    - TextViewMaster
+
+SPEC CHECKSUMS:
+  PinLayout: d6b1960e4b182b4da1481b9aa6728f621e20708d
+  TextViewMaster: 0d55e1df2e6ae8b098ac9a2be4242bcf18ea9317
+
+PODFILE CHECKSUM: c0b2abe822bbed061b04481df81a69dfc42e0409
+
+COCOAPODS: 1.11.2

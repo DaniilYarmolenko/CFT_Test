@@ -1,0 +1,6 @@
+framework module Pods_CFT_Task {
+  umbrella header "Pods-CFT_Task-umbrella.h"
+
+  export *
+  module * { export * }
+}
